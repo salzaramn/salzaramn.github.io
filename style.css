@@ -2,7 +2,7 @@
 
 
 body {
-  background-image: url("background.png");
+  background-image: url("blackground.png");
   margin: 0;
 }
 .up {
@@ -12,9 +12,6 @@ body {
 }
 .title {
   max-width: 100%;
-}
-.me {
-  
 }
 .info {
   max-width: 100%;
@@ -29,11 +26,4 @@ body {
 }
 .bawah {
   margin-top: 100%;
-}
-.earth {
-  max-width: 100%;
-}
-.footer {
-  background-color: whitesmoke;
-  color: hotpink;
 }
