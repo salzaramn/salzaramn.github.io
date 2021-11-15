@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+body {
+  background-image: url("background.png");
+  margin: 0;
+}
+.up {
+  display: inline-block;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+.title {
+  max-width: 100%;
+}
+.me {
+  
+}
+.info {
+  max-width: 100%;
+}
+.child {
+  max-width: 70%;
+  margin-left: 70px;
+}
+.children {
+  max-width: 70%;
+  margin-top: 0;
+}
+.bawah {
+  margin-top: 100%;
+}
+.earth {
+  max-width: 100%;
+}
+.footer {
+  background-color: whitesmoke;
+  color: hotpink;
+}
